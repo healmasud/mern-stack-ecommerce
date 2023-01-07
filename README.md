@@ -12,10 +12,6 @@ An e-commerce store built with MERN stack and utilizes third-party APIs. This ap
 - Stripe provides payment solution
 - Firebase for image upload
 
-## Live preview
-
-https://abdulla-mern-ecommerce.herokuapp.com/
-
 ## Install Dependencies
 
 **For Backend** - `cd api` `npm install`
